@@ -7,11 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbsvit&layout=compact&hide_border=true&title_color=3CB371&text_color=fff&bg_color=3CB371" />
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{barbsvit}/count.svg"/></p> 
-<br>
-</div>
+
 
 
 
